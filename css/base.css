@@ -16,7 +16,9 @@ main {
 p {
     display: inline-flex;
     align-items: center;
-    width: 13.938rem;
+    height: 13.938rem;
+    width: 10.625rem;
+    margin: 15px;
     color: #4a4a4a;
     font-size: 1.813rem;
     font-weight: 300;

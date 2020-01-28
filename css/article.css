@@ -10,7 +10,7 @@
     color: #f0f0f0;
 }
 
-/* .article:after {
+/* .article::after {
     content: "";
     display: flex;
     margin: auto;
