@@ -1,0 +1,22 @@
+/*------------------------------*/
+/* NAVBAR                       */
+/* ---------------------------- */
+
+.navbar {
+    display: flex;
+    margin-left: auto;
+    margin-right: 119px;
+}
+
+
+.navbar__link {
+    display: flex;
+    align-items: center;
+    height: 4.063rem;
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar__link + .navbar__link {
+    padding-left: 27px;
+}

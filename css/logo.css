@@ -1,0 +1,12 @@
+/*------------------------------*/
+/* LOGO                         */
+/* ---------------------------- */
+.logo {
+    display: inline-block;
+    margin-left: 119px;
+    margin-right: auto;
+    font-size: 1.563rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.25rem;
+}

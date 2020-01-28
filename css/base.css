@@ -1,0 +1,25 @@
+/*------------------------------*/
+/* BASE                         */
+/* ---------------------------- */
+
+body {
+    background-color: #fff;
+    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem;
+}
+
+main {
+    margin-bottom: 66px;
+}
+
+p {
+    display: inline-flex;
+    align-items: center;
+    width: 13.938rem;
+    color: #4a4a4a;
+    font-size: 1.813rem;
+    font-weight: light;
+    line-height: 2.063rem;
+    text-align: center;
+}
