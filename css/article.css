@@ -8,6 +8,7 @@
     flex-flow: row wrap;
     padding: 51px 104px;
     color: #f0f0f0;
+    text-align: center;
 }
 
 /* .article::after {
@@ -23,6 +24,7 @@
 
 .article:last-child{
     display: flex;
+    justify-content: space-between;
     flex-wrap: nowrap;
     height: 27.875rem;
 }
